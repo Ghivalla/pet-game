@@ -1,2 +1,2 @@
 # Pet-Game
-Tamagochi game project on react
+Tamagotchi game project
