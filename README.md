@@ -1,2 +1,2 @@
 # Pet-Game
-Tamagotchi game project
+Take care of your little monster, or it will die
